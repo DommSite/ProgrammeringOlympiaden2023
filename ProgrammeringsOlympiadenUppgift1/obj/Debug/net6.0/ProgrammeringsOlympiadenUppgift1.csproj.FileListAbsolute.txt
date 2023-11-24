@@ -1,0 +1,14 @@
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\bin\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.exe
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\bin\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.deps.json
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\bin\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.runtimeconfig.json
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\bin\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.dll
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\bin\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.pdb
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.AssemblyInfoInputs.cache
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.AssemblyInfo.cs
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.dll
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\refint\ProgrammeringsOlympiadenUppgift1.dll
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.pdb
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ProgrammeringsOlympiadenUppgift1.genruntimeconfig.cache
+C:\Users\jojo06002\source\repos\ProgrammeringsOlympiadenUppgift1\ProgrammeringsOlympiadenUppgift1\obj\Debug\net6.0\ref\ProgrammeringsOlympiadenUppgift1.dll
